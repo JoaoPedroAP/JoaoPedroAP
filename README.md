@@ -3,4 +3,5 @@ Oi, eu sou João. Sejamos diretos, eu aprecio:
 - 🛰️ sistemas integrados
 - ♾️ matemática
 - 🥸 inteligência artificial
+
 Espero que também esteja interessado(a).
